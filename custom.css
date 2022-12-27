@@ -1,0 +1,37 @@
+p.text-4-5.bannersmalltext.text-color-light.font-weight-light.opacity-9.mb-4.initialized {
+    width: 50%;
+    font-size: 15px !important;
+    line-height: initial;
+}
+h1.bannerheadingtext.letters span.gr {font-size: 80px;color: #00aace;}
+h1.bannerheadingtext.letters span.wh {font-size: 80px;}
+section#works span.gr {color: #00aace;}
+section#works span.wh {color: #000;}
+.mb-0.bigtext span.wh {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.mb-0.bigtext span.bl {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #000;
+}
+.mb-0.bigtext small {
+    color: #fff;
+    font-size: 15px;
+}
+span.dottilemove {
+    color: #00a9cd;
+    font-size: 100px;
+    line-height: 0;
+}
+h2.text-color-dark.font-weight-bold.text-10.ls-0.pb-2.mb-3.pt-2.ws-nowrap {
+    font-size: 70px !important;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.col.pt-4.text-center.tiltthewords {
+    transform: rotate(-5deg);
+}
